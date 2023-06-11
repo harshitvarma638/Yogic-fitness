@@ -1,6 +1,6 @@
 # 🧘‍♀️ Yogic-fitness 🧘‍♀️
 
-This is a web based application developed for online yoga training for people all over the world
+This is a web based application developed for online yoga training for people all over the world.
 
 ### This web based fitness(Yoga) application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
