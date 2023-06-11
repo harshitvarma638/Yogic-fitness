@@ -7,7 +7,7 @@ This is a web based application developed for online yoga training for people al
 
 **Project Link** - https://green-forest-059050600.3.azurestaticapps.net
 
-**Preoject demo video** - 
+**Preoject demo video link** - https://youtu.be/4CHij5fXvQ8
 
 
 ## Features and Functionalities 😃
